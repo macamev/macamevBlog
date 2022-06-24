@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://macamev.github.io/macamevBlog/about/</loc>
+    <loc>www.macamev.com/about/</loc>
   </url><url>
-    <loc>https://macamev.github.io/macamevBlog/</loc>
+    <loc>www.macamev.com/</loc>
     <lastmod>2022-06-05T20:16:34+03:00</lastmod>
   </url><url>
-    <loc>https://macamev.github.io/macamevBlog/tags/mashroom/</loc>
+    <loc>www.macamev.com/tags/mashroom/</loc>
     <lastmod>2022-06-05T20:16:34+03:00</lastmod>
   </url><url>
-    <loc>https://macamev.github.io/macamevBlog/posts/my-first-post-copy/</loc>
+    <loc>www.macamev.com/posts/my-first-post-copy/</loc>
     <lastmod>2022-06-05T20:16:34+03:00</lastmod>
   </url><url>
-    <loc>https://macamev.github.io/macamevBlog/posts/my-first-post/</loc>
+    <loc>www.macamev.com/posts/my-first-post/</loc>
     <lastmod>2022-06-05T20:16:34+03:00</lastmod>
   </url><url>
-    <loc>https://macamev.github.io/macamevBlog/posts/</loc>
+    <loc>www.macamev.com/posts/</loc>
     <lastmod>2022-06-05T20:16:34+03:00</lastmod>
   </url><url>
-    <loc>https://macamev.github.io/macamevBlog/tags/scene/</loc>
+    <loc>www.macamev.com/tags/scene/</loc>
     <lastmod>2022-06-05T20:16:34+03:00</lastmod>
   </url><url>
-    <loc>https://macamev.github.io/macamevBlog/tags/</loc>
+    <loc>www.macamev.com/tags/</loc>
     <lastmod>2022-06-05T20:16:34+03:00</lastmod>
   </url><url>
-    <loc>https://macamev.github.io/macamevBlog/categories/</loc>
+    <loc>www.macamev.com/categories/</loc>
   </url>
 </urlset>

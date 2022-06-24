@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Macamev Foods</title>
-    <link>https://macamev.github.io/macamevBlog/posts/</link>
+    <link>www.macamev.com/posts/</link>
     <description>Macamev Foods (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jun 2022 20:16:34 +0300</lastBuildDate>
     
-    <atom:link href="https://macamev.github.io/macamevBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="www.macamev.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mushroom risotto</title>
-      <link>https://macamev.github.io/macamevBlog/posts/my-first-post-copy/</link>
+      <link>www.macamev.com/posts/my-first-post-copy/</link>
       <pubDate>Sun, 05 Jun 2022 20:16:34 +0300</pubDate>
       
-      <guid>https://macamev.github.io/macamevBlog/posts/my-first-post-copy/</guid>
+      <guid>www.macamev.com/posts/my-first-post-copy/</guid>
       <description>&lt;p&gt;A fantastic creamy risotto perfect for chilly days.&lt;/p&gt;
 &lt;p&gt;Ingredients:&lt;/p&gt;
 &lt;p&gt;250g mushrooms&lt;/p&gt;
@@ -55,13 +55,13 @@ Your meal is ready to be enjoyed, serve it up with some fresh parsley and dig in
     
     <item>
       <title>Mushroom risotto</title>
-      <link>https://macamev.github.io/macamevBlog/posts/my-first-post/</link>
+      <link>www.macamev.com/posts/my-first-post/</link>
       <pubDate>Sun, 05 Jun 2022 20:16:34 +0300</pubDate>
       
-      <guid>https://macamev.github.io/macamevBlog/posts/my-first-post/</guid>
+      <guid>www.macamev.com/posts/my-first-post/</guid>
       <description>&lt;p&gt;A fantastic creamy risotto perfect for chilly days.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;:
-&lt;img src=&#34;https://macamev.github.io/macamevBlog/img/gohugo-default-sample-hero-image.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;www.macamev.com/img/gohugo-default-sample-hero-image.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;250g mushrooms&lt;/p&gt;

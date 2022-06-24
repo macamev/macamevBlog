@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Macamev Foods</title>
-    <link>https://macamev.github.io/macamevBlog/tags/</link>
+    <link>www.macamev.com/tags/</link>
     <description>Macamev Foods (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jun 2022 20:16:34 +0300</lastBuildDate>
     
-    <atom:link href="https://macamev.github.io/macamevBlog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="www.macamev.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
