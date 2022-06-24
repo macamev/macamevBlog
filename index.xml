@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Macamev Foods</title>
-    <link>www.macamev.com/</link>
+    <link>https://www.macamev.com/</link>
     <description>Macamev Foods</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jun 2022 20:16:34 +0300</lastBuildDate>
     
-    <atom:link href="www.macamev.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.macamev.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Our Difference</title>
-      <link>www.macamev.com/about/</link>
+      <link>https://www.macamev.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>www.macamev.com/about/</guid>
+      <guid>https://www.macamev.com/about/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mushroom risotto</title>
-      <link>www.macamev.com/posts/my-first-post-copy/</link>
+      <link>https://www.macamev.com/posts/my-first-post-copy/</link>
       <pubDate>Sun, 05 Jun 2022 20:16:34 +0300</pubDate>
       
-      <guid>www.macamev.com/posts/my-first-post-copy/</guid>
+      <guid>https://www.macamev.com/posts/my-first-post-copy/</guid>
       <description>&lt;p&gt;A fantastic creamy risotto perfect for chilly days.&lt;/p&gt;
 &lt;p&gt;Ingredients:&lt;/p&gt;
 &lt;p&gt;250g mushrooms&lt;/p&gt;
@@ -65,13 +65,13 @@ Your meal is ready to be enjoyed, serve it up with some fresh parsley and dig in
     
     <item>
       <title>Mushroom risotto</title>
-      <link>www.macamev.com/posts/my-first-post/</link>
+      <link>https://www.macamev.com/posts/my-first-post/</link>
       <pubDate>Sun, 05 Jun 2022 20:16:34 +0300</pubDate>
       
-      <guid>www.macamev.com/posts/my-first-post/</guid>
+      <guid>https://www.macamev.com/posts/my-first-post/</guid>
       <description>&lt;p&gt;A fantastic creamy risotto perfect for chilly days.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;:
-&lt;img src=&#34;www.macamev.com/img/gohugo-default-sample-hero-image.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.macamev.com/img/gohugo-default-sample-hero-image.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;250g mushrooms&lt;/p&gt;
