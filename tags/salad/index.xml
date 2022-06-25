@@ -1,59 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>salad on Macamev</title>
     <link>https://www.macamev.com/tags/salad/</link>
-    <description>Macamev (salad)</description>
+    <description>Recent content in salad on Macamev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jun 2022 20:45:57 +0300</lastBuildDate>
-    
-    <atom:link href="https://www.macamev.com/tags/salad/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 24 Jun 2022 20:45:57 +0300</lastBuildDate><atom:link href="https://www.macamev.com/tags/salad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Potato salad</title>
       <link>https://www.macamev.com/posts/potato_salad_post/</link>
       <pubDate>Fri, 24 Jun 2022 20:45:57 +0300</pubDate>
       
       <guid>https://www.macamev.com/posts/potato_salad_post/</guid>
-      <description>&lt;p&gt;An oil based potato salad that is perfect for summer days.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.macamev.com/img/potato.jpeg&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;800g-1kg potatos&lt;/li&gt;
-&lt;li&gt;2 pickles&lt;/li&gt;
-&lt;li&gt;1 leek&lt;/li&gt;
-&lt;li&gt;Small jar of kapers&lt;/li&gt;
-&lt;li&gt;Black pepper&lt;/li&gt;
-&lt;li&gt;White pepper&lt;/li&gt;
-&lt;li&gt;Salt&lt;/li&gt;
-&lt;li&gt;1dl olive oil&lt;/li&gt;
-&lt;li&gt;2 tablespoons white vine vinegar&lt;/li&gt;
-&lt;li&gt;2 teaspoons mustard&lt;/li&gt;
-&lt;li&gt;A bunch of dill&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Method&lt;/strong&gt;:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Peel and boil your potatoes until soft but not so that they come easily apart.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Once done, let your potatoes cool down to room temperature.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dice your leek and pickles in to small pieces.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Cut the potatoes in to quarter sizes or whichever you prefer for your salad.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Mix all the ingredients together in to a large salad bowl and make sure the salad is evenly coated in all the ingredients.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Add some fresh dill for a finishing touch.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</description>
+      <description>&lt;p&gt;An oil based potato salad that is perfect for summer days.&lt;/p&gt;</description>
     </item>
     
   </channel>
