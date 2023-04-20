@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>godot on Macamev</title>
-    <link>uild/tags/godot/</link>
+    <link>https://www.macamev.com/tags/godot/</link>
     <description>Recent content in godot on Macamev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Oct 2022 14:09:28 +0300</lastBuildDate><atom:link href="uild/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 14:09:28 +0300</lastBuildDate><atom:link href="https://www.macamev.com/tags/godot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project: Frog Can Jump</title>
-      <link>uild/posts/project-frogjump/</link>
+      <link>https://www.macamev.com/posts/project-frogjump/</link>
       <pubDate>Sun, 16 Oct 2022 14:09:28 +0300</pubDate>
       
-      <guid>uild/posts/project-frogjump/</guid>
+      <guid>https://www.macamev.com/posts/project-frogjump/</guid>
       <description>FrogCanJump is a 2D doodle jump inspired platformer arcade game. It&amp;rsquo;s not yet finished and is currently still in development.
 I&amp;rsquo;m continuing work on the game as I still see a lot of potential features and juice that can be added. So far the very basics are implemented that makes this in to a game. The player can jump and score is kept, best highscore is stored to add an extra challenge of beating ones own score.</description>
     </item>
     
     <item>
       <title>Project: Pajatso</title>
-      <link>uild/posts/project-pajatso/</link>
+      <link>https://www.macamev.com/posts/project-pajatso/</link>
       <pubDate>Sun, 31 Jul 2022 22:44:41 +0300</pubDate>
       
-      <guid>uild/posts/project-pajatso/</guid>
+      <guid>https://www.macamev.com/posts/project-pajatso/</guid>
       <description>This project is a 2D game created with the Godot game engine. The game is a remake of the old classic pajatso gambling game. The player&amp;rsquo;s goal is to shoot coins in to boxes to score. You can adjust the strength of the shot by following the bar progress. You&amp;rsquo;re able to get more coins by when the timer is done counting down. Once the timer is done press the get more coins button.</description>
     </item>
     

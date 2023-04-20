@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>uild/about/</loc>
+    <loc>https://www.macamev.com/about/</loc>
   </url><url>
-    <loc>uild/tags/food/</loc>
+    <loc>https://www.macamev.com/tags/food/</loc>
     <lastmod>2023-04-20T10:26:20+03:00</lastmod>
   </url><url>
-    <loc>uild/</loc>
+    <loc>https://www.macamev.com/</loc>
     <lastmod>2023-04-20T10:26:20+03:00</lastmod>
   </url><url>
-    <loc>uild/posts/mushroom-risotto/</loc>
+    <loc>https://www.macamev.com/posts/mushroom-risotto/</loc>
     <lastmod>2023-04-20T10:26:20+03:00</lastmod>
   </url><url>
-    <loc>uild/posts/</loc>
+    <loc>https://www.macamev.com/posts/</loc>
     <lastmod>2023-04-20T10:26:20+03:00</lastmod>
   </url><url>
-    <loc>uild/tags/</loc>
+    <loc>https://www.macamev.com/tags/</loc>
     <lastmod>2023-04-20T10:26:20+03:00</lastmod>
   </url><url>
-    <loc>uild/tags/vegetarian/</loc>
+    <loc>https://www.macamev.com/tags/vegetarian/</loc>
     <lastmod>2023-04-20T10:26:20+03:00</lastmod>
   </url><url>
-    <loc>uild/tags/godot/</loc>
+    <loc>https://www.macamev.com/tags/godot/</loc>
     <lastmod>2022-10-16T14:09:28+03:00</lastmod>
   </url><url>
-    <loc>uild/posts/project-frogjump/</loc>
+    <loc>https://www.macamev.com/posts/project-frogjump/</loc>
     <lastmod>2022-10-16T14:09:28+03:00</lastmod>
   </url><url>
-    <loc>uild/tags/projects/</loc>
+    <loc>https://www.macamev.com/tags/projects/</loc>
     <lastmod>2022-10-16T14:09:28+03:00</lastmod>
   </url><url>
-    <loc>uild/posts/borsch/</loc>
+    <loc>https://www.macamev.com/posts/borsch/</loc>
     <lastmod>2022-09-09T20:02:39+03:00</lastmod>
   </url><url>
-    <loc>uild/posts/project-pajatso/</loc>
+    <loc>https://www.macamev.com/posts/project-pajatso/</loc>
     <lastmod>2022-07-31T22:44:41+03:00</lastmod>
   </url><url>
-    <loc>uild/posts/simple_meatballs/</loc>
+    <loc>https://www.macamev.com/posts/simple_meatballs/</loc>
     <lastmod>2022-06-30T20:01:39+03:00</lastmod>
   </url><url>
-    <loc>uild/posts/potato_salad_post/</loc>
+    <loc>https://www.macamev.com/posts/potato_salad_post/</loc>
     <lastmod>2022-06-24T20:45:57+03:00</lastmod>
   </url><url>
-    <loc>uild/archives/</loc>
+    <loc>https://www.macamev.com/archives/</loc>
   </url><url>
-    <loc>uild/categories/</loc>
+    <loc>https://www.macamev.com/categories/</loc>
   </url>
 </urlset>

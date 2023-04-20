@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Macamev</title>
-    <link>uild/</link>
+    <link>https://www.macamev.com/</link>
     <description>Recent content on Macamev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Apr 2023 10:26:20 +0300</lastBuildDate><atom:link href="uild/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Apr 2023 10:26:20 +0300</lastBuildDate><atom:link href="https://www.macamev.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>uild/about/</link>
+      <link>https://www.macamev.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>uild/about/</guid>
+      <guid>https://www.macamev.com/about/</guid>
       <description>In this blog space I like to post about game dev, foods, and occasional random thoughts. I keep this mainly as my own recipe storage; for both games I develop and also great foods I find all over. Enjoy your stay!</description>
     </item>
     
     <item>
       <title>Mushroom Risotto</title>
-      <link>uild/posts/mushroom-risotto/</link>
+      <link>https://www.macamev.com/posts/mushroom-risotto/</link>
       <pubDate>Thu, 20 Apr 2023 10:26:20 +0300</pubDate>
       
-      <guid>uild/posts/mushroom-risotto/</guid>
+      <guid>https://www.macamev.com/posts/mushroom-risotto/</guid>
       <description>&lt;p&gt;A creamy mushroom risotto&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Frog Can Jump</title>
-      <link>uild/posts/project-frogjump/</link>
+      <link>https://www.macamev.com/posts/project-frogjump/</link>
       <pubDate>Sun, 16 Oct 2022 14:09:28 +0300</pubDate>
       
-      <guid>uild/posts/project-frogjump/</guid>
+      <guid>https://www.macamev.com/posts/project-frogjump/</guid>
       <description>FrogCanJump is a 2D doodle jump inspired platformer arcade game. It&amp;rsquo;s not yet finished and is currently still in development.
 I&amp;rsquo;m continuing work on the game as I still see a lot of potential features and juice that can be added. So far the very basics are implemented that makes this in to a game. The player can jump and score is kept, best highscore is stored to add an extra challenge of beating ones own score.</description>
     </item>
     
     <item>
       <title>Borsch</title>
-      <link>uild/posts/borsch/</link>
+      <link>https://www.macamev.com/posts/borsch/</link>
       <pubDate>Fri, 09 Sep 2022 20:02:39 +0300</pubDate>
       
-      <guid>uild/posts/borsch/</guid>
+      <guid>https://www.macamev.com/posts/borsch/</guid>
       <description>&lt;p&gt;A vegetarian borsch&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project: Pajatso</title>
-      <link>uild/posts/project-pajatso/</link>
+      <link>https://www.macamev.com/posts/project-pajatso/</link>
       <pubDate>Sun, 31 Jul 2022 22:44:41 +0300</pubDate>
       
-      <guid>uild/posts/project-pajatso/</guid>
+      <guid>https://www.macamev.com/posts/project-pajatso/</guid>
       <description>This project is a 2D game created with the Godot game engine. The game is a remake of the old classic pajatso gambling game. The player&amp;rsquo;s goal is to shoot coins in to boxes to score. You can adjust the strength of the shot by following the bar progress. You&amp;rsquo;re able to get more coins by when the timer is done counting down. Once the timer is done press the get more coins button.</description>
     </item>
     
     <item>
       <title>Simple Meatballs</title>
-      <link>uild/posts/simple_meatballs/</link>
+      <link>https://www.macamev.com/posts/simple_meatballs/</link>
       <pubDate>Thu, 30 Jun 2022 20:01:39 +0300</pubDate>
       
-      <guid>uild/posts/simple_meatballs/</guid>
+      <guid>https://www.macamev.com/posts/simple_meatballs/</guid>
       <description>&lt;p&gt;Simple meatballs that can be prepared in a short amount of time&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Potato Salad</title>
-      <link>uild/posts/potato_salad_post/</link>
+      <link>https://www.macamev.com/posts/potato_salad_post/</link>
       <pubDate>Fri, 24 Jun 2022 20:45:57 +0300</pubDate>
       
-      <guid>uild/posts/potato_salad_post/</guid>
+      <guid>https://www.macamev.com/posts/potato_salad_post/</guid>
       <description>&lt;p&gt;An oil based potato salad that is perfect for summer days&lt;/p&gt;</description>
     </item>
     
