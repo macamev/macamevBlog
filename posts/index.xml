@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Macamev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Oct 2022 14:09:28 +0300</lastBuildDate><atom:link href="uild/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Apr 2023 10:26:20 +0300</lastBuildDate><atom:link href="uild/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mushroom Risotto</title>
+      <link>uild/posts/mushroom-risotto/</link>
+      <pubDate>Thu, 20 Apr 2023 10:26:20 +0300</pubDate>
+      
+      <guid>uild/posts/mushroom-risotto/</guid>
+      <description>&lt;p&gt;A creamy mushroom risotto&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Project: Frog Can Jump</title>
       <link>uild/posts/project-frogjump/</link>

@@ -6,7 +6,16 @@
     <description>Recent content in food on Macamev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Sep 2022 20:02:39 +0300</lastBuildDate><atom:link href="uild/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Apr 2023 10:26:20 +0300</lastBuildDate><atom:link href="uild/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mushroom Risotto</title>
+      <link>uild/posts/mushroom-risotto/</link>
+      <pubDate>Thu, 20 Apr 2023 10:26:20 +0300</pubDate>
+      
+      <guid>uild/posts/mushroom-risotto/</guid>
+      <description>&lt;p&gt;A creamy mushroom risotto&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Borsch</title>
       <link>uild/posts/borsch/</link>

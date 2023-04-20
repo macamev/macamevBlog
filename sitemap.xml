@@ -4,13 +4,25 @@
   <url>
     <loc>uild/about/</loc>
   </url><url>
-    <loc>uild/tags/godot/</loc>
-    <lastmod>2022-10-16T14:09:28+03:00</lastmod>
+    <loc>uild/tags/food/</loc>
+    <lastmod>2023-04-20T10:26:20+03:00</lastmod>
   </url><url>
     <loc>uild/</loc>
-    <lastmod>2022-10-16T14:09:28+03:00</lastmod>
+    <lastmod>2023-04-20T10:26:20+03:00</lastmod>
+  </url><url>
+    <loc>uild/posts/mushroom-risotto/</loc>
+    <lastmod>2023-04-20T10:26:20+03:00</lastmod>
   </url><url>
     <loc>uild/posts/</loc>
+    <lastmod>2023-04-20T10:26:20+03:00</lastmod>
+  </url><url>
+    <loc>uild/tags/</loc>
+    <lastmod>2023-04-20T10:26:20+03:00</lastmod>
+  </url><url>
+    <loc>uild/tags/vegetarian/</loc>
+    <lastmod>2023-04-20T10:26:20+03:00</lastmod>
+  </url><url>
+    <loc>uild/tags/godot/</loc>
     <lastmod>2022-10-16T14:09:28+03:00</lastmod>
   </url><url>
     <loc>uild/posts/project-frogjump/</loc>
@@ -19,16 +31,7 @@
     <loc>uild/tags/projects/</loc>
     <lastmod>2022-10-16T14:09:28+03:00</lastmod>
   </url><url>
-    <loc>uild/tags/</loc>
-    <lastmod>2022-10-16T14:09:28+03:00</lastmod>
-  </url><url>
     <loc>uild/posts/borsch/</loc>
-    <lastmod>2022-09-09T20:02:39+03:00</lastmod>
-  </url><url>
-    <loc>uild/tags/food/</loc>
-    <lastmod>2022-09-09T20:02:39+03:00</lastmod>
-  </url><url>
-    <loc>uild/tags/vegetarian/</loc>
     <lastmod>2022-09-09T20:02:39+03:00</lastmod>
   </url><url>
     <loc>uild/posts/project-pajatso/</loc>
